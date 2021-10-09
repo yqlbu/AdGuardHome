@@ -136,6 +136,6 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 > Block filter for advertisements, mainly on Korean sites.
 ```ini
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+```
 
  * [uBlackList](https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt)
-```
