@@ -139,3 +139,6 @@ https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 ```
 
  * [uBlackList](https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt)
+```ini
+ https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt
+```
