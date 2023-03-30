@@ -142,3 +142,8 @@ https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 ```ini
  https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt
 ```
+
+ * [BLUESKYXN_ALL](https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt)
+```ini
+https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
+```
